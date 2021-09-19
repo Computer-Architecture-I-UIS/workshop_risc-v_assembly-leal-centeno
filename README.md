@@ -79,10 +79,13 @@ If you want to run the simulation the only thing that you need to do is inside w
 ### Things to take into account
 If you want to see the signals, you need to follow the next path:
 >Ottochip tb/myCHIP/Ottochip nopads/regtest1
->>rego_0[31:0]
->>rego_1[31:0]
->>rego_2[31:0]
->>rego_3[31:0]
+>> - rego_0[31:0]
+>> 
+>> - rego_1[31:0]
+>> 
+>> - rego_2[31:0]
+>> 
+>> - rego_3[31:0]
 
 # Conclusions
 
