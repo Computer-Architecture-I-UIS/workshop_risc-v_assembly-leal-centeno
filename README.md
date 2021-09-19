@@ -36,7 +36,7 @@ If you want to run the simulation the only thing that you need to do is inside w
 
 ### Correct functionallity
 <p align= "center">
-<img src="https://github.com/Computer-Architecture-I-UIS/workshop_risc-v_assembly-leal-centeno/blob/main/imagenes/asmsignals.png" width="100%">
+<img src="https://github.com/Computer-Architecture-I-UIS/workshop_risc-v_assembly-leal-centeno/blob/main/imagenes/asmsignals.png" width="120%">
 </p>
 
 ### Things to take into account
