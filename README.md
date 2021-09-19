@@ -49,8 +49,8 @@ If you want to see the signals, you need to follow the next path:
 This program was created in ***C*** and describe the posibilities that have a hourse in chessboard, the script contain a series of conditionals that ensure the right positions that the hourse can take, in the following picture you can see two of many cases that can present the hourse, one of them is in a position ***[5,5]*** and ***[2,2]*** also you can find in the ***How it works*** section a flux diagram that describe in a simple way how is the logic of the program.
 
 <p float="center">
-  <img src="https://github.com/Computer-Architecture-I-UIS/workshop_risc-v_assembly-leal-centeno/blob/main/imagenes/5x5.png" width="40%" />
-  <img src="https://github.com/Computer-Architecture-I-UIS/workshop_risc-v_assembly-leal-centeno/blob/main/imagenes/2x2.png" width="40%" /> 
+  <img align="center" src="https://github.com/Computer-Architecture-I-UIS/workshop_risc-v_assembly-leal-centeno/blob/main/imagenes/5x5.png" width="40%" />
+  <img align="center" src="https://github.com/Computer-Architecture-I-UIS/workshop_risc-v_assembly-leal-centeno/blob/main/imagenes/2x2.png" width="40%" /> 
 </p>
 
 ### How it works
