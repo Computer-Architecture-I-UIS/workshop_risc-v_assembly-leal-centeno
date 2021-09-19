@@ -29,8 +29,9 @@ If you want to run the simulation the only thing that you need to do is inside w
 ```
 
 ### Instructions
-<p align= "center">
-<img src="imagen de las instrucciones" width="30%">
+<p align="center">
+  <img src="https://github.com/Computer-Architecture-I-UIS/workshop_risc-v_assembly-leal-centeno/blob/main/imagenes/NinstructionsASM.png" width="40%" />
+  <img src="https://github.com/Computer-Architecture-I-UIS/workshop_risc-v_assembly-leal-centeno/blob/main/imagenes/instructionASM.png" width="40%" /> 
 </p>
 
 ### Correct functionallity
@@ -67,13 +68,15 @@ If you want to run the simulation the only thing that you need to do is inside w
 ```
 
 ### Instructions
-<p align= "center">
-<img src="imagen de las instrucciones" width="30%">
+<p align="center">
+  <img src="https://github.com/Computer-Architecture-I-UIS/workshop_risc-v_assembly-leal-centeno/blob/main/imagenes/NinstructionsHorse.png" width="40%" />
+  <img src="https://github.com/Computer-Architecture-I-UIS/workshop_risc-v_assembly-leal-centeno/blob/main/imagenes/Instrutionhorse.png" width="40%" /> 
 </p>
 
 ### Correct functionallity
 <p align= "center">
 <img src="https://github.com/Computer-Architecture-I-UIS/workshop_risc-v_assembly-leal-centeno/blob/main/imagenes/HorseSignal.png" width="90%">
+<img src="https://github.com/Computer-Architecture-I-UIS/workshop_risc-v_assembly-leal-centeno/blob/main/imagenes/caballo2x2pos.png" width="90%">
 </p>
 
 ### Things to take into account
