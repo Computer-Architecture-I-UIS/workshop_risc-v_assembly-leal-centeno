@@ -6,8 +6,8 @@ void main()
 	int * ver = (int *) 0x2000006C;
 	*PosH = 0;
 	*PosV = 0;
-	*hor = 5;
-	*ver = 5;
+	*hor = 2;
+	*ver = 2;
 
 	
 	for(int i=-2;i<=(2);i++){

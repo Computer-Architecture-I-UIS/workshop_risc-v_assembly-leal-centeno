@@ -73,10 +73,10 @@ Desensamblado de la sección .memory:
   f0:	fe042783          	lw	a5,-32(s0)
   f4:	0007a023          	sw	zero,0(a5)
   f8:	fdc42783          	lw	a5,-36(s0)
-  fc:	00500713          	li	a4,5
+  fc:	00200713          	li	a4,2
  100:	00e7a023          	sw	a4,0(a5)
  104:	fd842783          	lw	a5,-40(s0)
- 108:	00500713          	li	a4,5
+ 108:	00200713          	li	a4,2
  10c:	00e7a023          	sw	a4,0(a5)
  110:	ffe00793          	li	a5,-2
  114:	fef42623          	sw	a5,-20(s0)

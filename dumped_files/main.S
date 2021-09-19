@@ -28,10 +28,10 @@ main:
 	lw	a5,-32(s0)
 	sw	zero,0(a5)
 	lw	a5,-36(s0)
-	li	a4,5
+	li	a4,2
 	sw	a4,0(a5)
 	lw	a5,-40(s0)
-	li	a4,5
+	li	a4,2
 	sw	a4,0(a5)
 	li	a5,-2
 	sw	a5,-20(s0)
