@@ -99,4 +99,5 @@ If you want to see the signals, you need to follow the next path:
 
  - RISC-V Assembly language Programmer manual part 1 [Link](https://shakti.org.in/docs/risc-v-asm-manual.pdf)
  - Instructions: Language of the computer [Link](http://algo.ing.unimo.it/people/andrea/Didattica/Architetture/SlidesPDF/Chapter_02-RISC-V.pdf)
+ - Guía Práctica de RISC-V: El Atlas de una Arquitectura Abierta [Link](http://riscvbook.com/spanish/)
 
