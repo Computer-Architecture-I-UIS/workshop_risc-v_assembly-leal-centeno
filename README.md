@@ -14,7 +14,7 @@ sudo chmod +x script.sh
 This program do in ***RISC-V asm*** can do dotproduct between two arrays whit a maximun lenght of 7 positions and give you the result between this two vectors, in the following picture you can see the mathematic expretion that was take into account to developt the program, then in the ***How it works*** section you can find a flux diagram that describe in a simple way the logic of the script.
 
 <p align= "center">
-<img src="https://github.com/Computer-Architecture-I-UIS/workshop_risc-v_assembly-leal-centeno/blob/main/imagenes/sumatoria.png" width="30%">
+<img src="https://github.com/Computer-Architecture-I-UIS/workshop_risc-v_assembly-leal-centeno/blob/main/imagenes/sumatoria.png" width="80%">
 </p>
 
 ### How it works
@@ -35,7 +35,7 @@ If you want to run the simulation the only thing that you need to do is inside w
 
 ### Correct functionallity
 <p align= "center">
-<img src="https://github.com/Computer-Architecture-I-UIS/workshop_risc-v_assembly-leal-centeno/blob/main/imagenes/asmsignals.png" width="30%">
+<img src="https://github.com/Computer-Architecture-I-UIS/workshop_risc-v_assembly-leal-centeno/blob/main/imagenes/asmsignals.png" width="80%">
 </p>
 
 ### Things to take into account
@@ -48,14 +48,14 @@ If you want to see the signals, you need to follow the next path:
 # Horse Movement
 This program was created in ***C*** and describe the posibilities that have a hourse in chessboard, the script contain a series of conditionals that ensure the right positions that the hourse can take, in the following picture you can see two of many cases that can present the hourse, one of them is in a position ***[5,5]*** and ***[2,2]*** also you can find in the ***How it works*** section a flux diagram that describe in a simple way how is the logic of the program.
 
-<p float="left">
-  <img src="https://github.com/Computer-Architecture-I-UIS/workshop_risc-v_assembly-leal-centeno/blob/main/imagenes/5x5.png" width="100" />
-  <img src="https://github.com/Computer-Architecture-I-UIS/workshop_risc-v_assembly-leal-centeno/blob/main/imagenes/2x2.png" width="100" /> 
+<p float="center">
+  <img src="https://github.com/Computer-Architecture-I-UIS/workshop_risc-v_assembly-leal-centeno/blob/main/imagenes/5x5.png" width="50%" />
+  <img src="https://github.com/Computer-Architecture-I-UIS/workshop_risc-v_assembly-leal-centeno/blob/main/imagenes/2x2.png" width="50%" /> 
 </p>
 
 ### How it works
 <p align= "center">
-<img src="https://github.com/Computer-Architecture-I-UIS/workshop_risc-v_assembly-leal-centeno/blob/main/imagenes/horse.png" width="30%">
+<img src="https://github.com/Computer-Architecture-I-UIS/workshop_risc-v_assembly-leal-centeno/blob/main/imagenes/horse.png" width="80%">
 </p>
 
 If you want to run the simulation the only thing that you need to do is inside workshop folder run the next command and automatically the script show you ***GTKwave*** environment, int this case you don't need to send an argument.
@@ -71,7 +71,7 @@ If you want to run the simulation the only thing that you need to do is inside w
 
 ### Correct functionallity
 <p align= "center">
-<img src="https://github.com/Computer-Architecture-I-UIS/workshop_risc-v_assembly-leal-centeno/blob/main/imagenes/HorseSignal.png" width="30%">
+<img src="https://github.com/Computer-Architecture-I-UIS/workshop_risc-v_assembly-leal-centeno/blob/main/imagenes/HorseSignal.png" width="80%">
 </p>
 
 ### Things to take into account
