@@ -41,9 +41,11 @@ If you want to run the simulation the only thing that you need to do is inside w
 ### Things to take into account
 If you want to see the signals, you need to follow the next path:
 >Ottochip tb/myCHIP/Ottochip nopads/core/core/DATA/ID
->>-regs_out_6[31:0]
->>-regs_out_7[31:0]
->>-regs_out_20[31:0]
+>> - regs_out_6[31:0]
+>> 
+>> - regs_out_7[31:0]
+>> 
+>> - regs_out_20[31:0]
 
 # Horse Movement
 This program was created in ***C*** and describe the posibilities that have a hourse in chessboard, the script contain a series of conditionals that ensure the right positions that the hourse can take, in the following picture you can see two of many cases that can present the hourse, one of them is in a position ***[5,5]*** and ***[2,2]*** also you can find in the ***How it works*** section a flux diagram that describe in a simple way how is the logic of the program.
