@@ -35,9 +35,20 @@ If you want to run the simulation the only thing that you need to do is inside w
 </p>
 
 ### Correct functionallity
+Test1. Input vectors:
+--> a = [4, 9, 11, 5]
+--> b = [3, 8 , 2, 7]
 <p align= "center">
-<img src="https://github.com/Computer-Architecture-I-UIS/workshop_risc-v_assembly-leal-centeno/blob/main/imagenes/asmsignals.png" width="120%">
+<img src="https://github.com/Computer-Architecture-I-UIS/workshop_risc-v_assembly-leal-centeno/blob/main/imagenes/asmsignals_1.png" width="120%">
 </p>
+
+Test2. Input vectors:
+--> a = [1, 2, 3, 4, 6, 9, 5]
+--> b = [4, 9, 6, 3, 5, 8, 3]
+<p align= "center">
+<img src="https://github.com/Computer-Architecture-I-UIS/workshop_risc-v_assembly-leal-centeno/blob/main/imagenes/asmsignals_2.png" width="120%">
+</p>
+
 
 ### Things to take into account
 If you want to see the signals, you need to follow the next path:
@@ -74,8 +85,17 @@ If you want to run the simulation the only thing that you need to do is inside w
 </p>
 
 ### Correct functionallity
+Test1. Input position:
+--> H = 5
+--> V = 5
 <p align= "center">
 <img src="https://github.com/Computer-Architecture-I-UIS/workshop_risc-v_assembly-leal-centeno/blob/main/imagenes/HorseSignal.png" width="90%">
+</p>
+
+Test2. Input position:
+--> H = 2
+--> V = 2
+<p align= "center">
 <img src="https://github.com/Computer-Architecture-I-UIS/workshop_risc-v_assembly-leal-centeno/blob/main/imagenes/caballo2x2pos.png" width="90%">
 </p>
 
